@@ -5,7 +5,7 @@
     "picture": "http://www.gravatar.com/avatar/266d2fe5d3e2aaefc1dcbf34e4f26243?s=200&r=pg&d=mm",
     "email": "fwhenin@gmail.com",
     "phone": "(330) 398-0751",
-    "website": "http://fwhenin.com",
+    "website": "http://developmentchaos.com",
     "summary": "5 years of experience in all stages of Web and software development lifecycle, from concept and development through quality assurance (QA) and tuning.In-depth understanding of security, SEO, and optimization to maximize site performance.Extensive knowledge and on-hands experience in information architecture, web design, project management, and testing.Proven background in large-scale enterprise application implementations. Superior communication, analytical, and interpersonal skills.",
     "location": {
       "address": "6395 St. Andrews Dr., Apt. 4",
@@ -16,12 +16,27 @@
     },
     "profiles": [
       {
+        "network": "linkedin",
+        "username": "fwhenin",
+        "url": "https://www.linkedin.com/in/fwhenin"
+      },
+      {
+        "network": "github",
+        "username": "fwhenin",
+        "url": ""
+      },
+      {
+        "network": "facebook",
+        "username": "fwhenin",
+        "url": ""
+      },
+      {
         "network": "Twitter",
         "username": "fwhenin",
         "url": "http://twitter.com/fwhenin"
       },
       {
-        "network": "LinkedIn",
+        "network": "googleplus",
         "username": "fwhenin",
         "url": ""
       }

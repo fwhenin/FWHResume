@@ -6,7 +6,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function(req,res) {
-    res.sendfile('resume.html');
+    res.sendFile(__dirname + '/resume.html');
 });
 
 app.listen(process.env.PORT || 3000);
