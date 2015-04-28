@@ -1,0 +1,178 @@
+{
+  "basics": {
+    "name": "Freddy W Henin",
+    "label": ".NET/Mobile Developer",
+    "picture": "http://www.gravatar.com/avatar/266d2fe5d3e2aaefc1dcbf34e4f26243?s=200&r=pg&d=mm",
+    "email": "fwhenin@gmail.com",
+    "phone": "(330) 398-0751",
+    "website": "http://fwhenin.com",
+    "summary": "5 years of experience in all stages of Web and software development lifecycle, from concept and development through quality assurance (QA) and tuning.In-depth understanding of security, SEO, and optimization to maximize site performance.Extensive knowledge and on-hands experience in information architecture, web design, project management, and testing.Proven background in large-scale enterprise application implementations. Superior communication, analytical, and interpersonal skills.",
+    "location": {
+      "address": "6395 St. Andrews Dr., Apt. 4",
+      "postalCode": "OH 44406",
+      "city": "Canfield",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "fwhenin",
+        "url": "http://twitter.com/fwhenin"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "fwhenin",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Autosoft, Inc",
+      "position": ".NET/iOS/Android Developer",
+      "website": "http://autosoftdms.com",
+      "startDate": "2014-08-01",
+      "summary": "",
+      "highlights": [
+        "Lead and Build an iOS application from the ground up",
+        "Develop and Maintain a Dealership Management Software",
+        "Discovered and fixed efficiency bottlenecks to speed up certain parts of the system",
+        "Worked with a team of developers to efficiently solve problems"
+      ]
+    },
+    {
+      "company": "Matchlite Studios",
+      "position": "Lead Developer (Part-Owner)",
+      "website": "http://www.matchlitestudios.com",
+      "startDate": "2012-03-01",
+      "summary": "",
+      "highlights": [
+        "Develop websites using relative programming languages",
+        "Develop custom themes and templates for Wordpress",
+        "Met with prospective clients informing them what MLS can offer",
+        "Self-Taught modern programming skills in HTML5 and CSS3"
+      ]
+    },
+    {
+      "company": "Empyra.com, Inc",
+      "position": "Senior .NET Developer",
+      "website": "http://empyra.com",
+      "startDate": "2013-04-01",
+      "endDate": "2014-08-01",
+      "summary": "In a matter of 9 months at Empyra, I've went from Entry-Level Developer to Senior-Level with Team Lead responsibilities. My knowledge and passion in programming allowed me tolearn quickly and catch up to the Empyra OneFlow system.",
+      "highlights": [
+        "Develop and enhanced features of the OneFlow web program",
+        "Mentor entry-level developers and train them to understand OneFlow's n-tier architecture",
+        "Discovered and fixed efficiency bottlenecks to speed up certain parts of the system",
+        "Worked with a team of developers to efficiently solve problems"
+      ]
+    },
+    {
+      "company": "Crossroads Church",
+      "position": "Media Director",
+      "website": "http://crossroadsyo.com",
+      "startDate": "2012-03-01",
+      "endDate": "2013-04-01",
+      "summary": "",
+      "highlights": [
+        "Brand the Church using Video, Audio, Website and Mobile Apps",
+        "Delegate creative work to a design team",
+        "Handle all Technology as related to Audio, Video, and Lighting"
+      ]
+    },
+    {
+      "company": "1080 Media",
+      "position": "Assistant Developer",
+      "website": "http://1080site.com",
+      "startDate": "2010-09-01",
+      "endDate": "2012-03-01",
+      "summary": "",
+      "highlights": [
+        "Develop websites using relative programming languages",
+        "Meet project deadlines",
+        "Expanded my knowledge in Programming"
+      ]
+    }
+
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Youngstown State University",
+      "area": "Electrical Engineering - Computer/Digital Option",
+      "studyType": "Bachelor",
+      "startDate": "2005-08-01",
+      "endDate": "2010-05-01",
+      "gpa": "3.2",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": [
+        "iOS",
+        "Android",
+        "Web API"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        ".NET",
+        "C#",
+        "JSON",
+        "PHP",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Database Development",
+      "level": "Master",
+      "keywords": [
+    	"SQL Server",
+    	"MySQL",
+    	"Object-Relational Mapper",
+    	"Entity Framework",
+    	"NHibernate"
+      ]
+    },
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+    	"jQuery",
+    	"AngularJS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic (Egyptian)",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Travis Alexander",
+      "reference": "Most professionals in the software development world understand that exceptional developers who also possess outstanding interpersonal skills are too often few and far between. Not only does Freddy possess technical competence, he is a terrific communicator and teacher. This truly grants him the ability to effectively serve as a team-lead and liaison between technical resources and project managers. Freddy is a passionate software developer and a person of strong character. I enthusiastically endorse him for any cause where creativity, competence and commitment are prized!"
+    },
+    {
+      "name": "Matthew Beda",
+      "reference": "I had the privilege of working alongside Freddy while at Empyra. He was the major force behind our first IOS app, and helped to institute several key changes to our web application structure. He always looked for a better way to do things, and he enjoyed learning new programming structures."
+    }
+  ]
+}
